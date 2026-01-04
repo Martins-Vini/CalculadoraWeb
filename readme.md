@@ -6,7 +6,7 @@ Uma calculadora funcional, moderna e responsiva desenvolvida com o objetivo de p
 
 ## 🚀 Demonstração
 
-Você pode visualizar o projeto online aqui: ****
+Você pode visualizar o projeto online aqui: **https://calculadora-web-rust.vercel.app/**
 
 ---
 
@@ -30,10 +30,10 @@ Se desejar rodar o projeto localmente, siga estes passos:
 
 1.  **Clone o repositório**:
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone https://github.com/Martins-Vini/CalculadoraWeb.git
     ```
 2.  **Acesse a pasta**:
     ```bash
     cd nome-do-repositorio
     ```
-3.  **Abra o arquivo principal**: Basta abrir o arquivo `calculadora.html` em qualquer navegador.
+3.  **Abra o arquivo principal**: Basta abrir o arquivo `index.html` em qualquer navegador.
