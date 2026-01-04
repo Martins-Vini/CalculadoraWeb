@@ -34,6 +34,6 @@ Se desejar rodar o projeto localmente, siga estes passos:
     ```
 2.  **Acesse a pasta**:
     ```bash
-    cd nome-do-repositorio
+    cd calculadora
     ```
 3.  **Abra o arquivo principal**: Basta abrir o arquivo `index.html` em qualquer navegador.
